@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/aybuke/AndroidStudioProjects/Login/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/aybuke/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes-55b457e7f38d5cc86cbc0ce658741e5e76b8a577.jar" />
+    </item>
+    <item
+        jar="/home/aybuke/AndroidStudioProjects/Login/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/aybuke/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes-4c3d3e5b2809aa8768ed44599c87c51219eb3eae.jar" />
+    </item>
+    <item
+        jar="/home/aybuke/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/aybuke/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-ce8c7c4f3928be920632d87df30fa8fcbf2028a3.jar" />
+    </item>
+    <item
+        jar="/home/aybuke/AndroidStudioProjects/Login/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/aybuke/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/classes-40223c0cb4a2a4455fbee945e9f0600e5b08969a.jar" />
+    </item>
+    <item
+        jar="/home/aybuke/AndroidStudioProjects/Login/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/aybuke/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d0859210db8de36d29f017b4d255f8e32079ce3b.jar" />
+    </item>
+
+</items>
